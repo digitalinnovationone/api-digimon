@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "name": "Kokuwamon",
+    "image": "https://www.spriters-resource.com/resources/sheet_icons/38/40898.png",
+    "DEF": 32,
+    "ATK": 79,
+    "HP": 54
+  },
+  {
+    "id": 2,
+    "name": "Kamemon",
+    "image": "https://www.spriters-resource.com/resources/sheet_icons/39/41530.png",
+    "DEF": 11,
+    "ATK": 47,
+    "HP": 92
+  },
+  {
+    "id": 3,
+    "name": "Hawkmon",
+    "image": "https://www.spriters-resource.com/resources/sheet_icons/38/40896.png",
+    "DEF": 65,
+    "ATK": 18,
+    "HP": 76
+  },
+  {
+    "id": 4,
+    "name": "Hagurumon",
+    "image": "https://www.spriters-resource.com/resources/sheet_icons/39/41529.png",
+    "DEF": 88,
+    "ATK": 39,
+    "HP": 45
+  },
+  {
+    "id": 5,
+    "name": "Hagurumon",
+    "image": "https://www.spriters-resource.com/resources/sheet_icons/39/41529.png",
+    "DEF": 7,
+    "ATK": 92,
+    "HP": 21
+  },
+  {
+    "id": 6,
+    "name": "Gotsumon",
+    "image": "https://www.spriters-resource.com/resources/sheet_icons/39/41528.png",
+    "DEF": 50,
+    "ATK": 61,
+    "HP": 13
+  },
+  {
+    "id": 7,
+    "name": "Goburimon",
+    "image": "https://www.spriters-resource.com/resources/sheet_icons/38/40912.png",
+    "DEF": 39,
+    "ATK": 14,
+    "HP": 77
+  },
+  {
+    "id": 8,
+    "name": "Floramon",
+    "image": "https://www.spriters-resource.com/resources/sheet_icons/39/41859.png",
+    "DEF": 84,
+    "ATK": 71,
+    "HP": 9
+  },
+  {
+    "id": 9,
+    "name": "DemiDevimon",
+    "image": "https://www.spriters-resource.com/resources/sheet_icons/39/41857.png",
+    "DEF": 23,
+    "ATK": 34,
+    "HP": 66
+  },
+  {
+    "id": 10,
+    "name": "Biyomon",
+    "image": "https://www.spriters-resource.com/resources/sheet_icons/38/40894.png",
+    "DEF": 98,
+    "ATK": 5,
+    "HP": 41
+  },
+  {
+    "id": 11,
+    "name": "Agumon",
+    "image": "https://www.spriters-resource.com/resources/sheet_icons/38/40907.png",
+    "DEF": 12,
+    "ATK": 87,
+    "HP": 28
+  },
+  {
+    "id": 12,
+    "name": "Armadilomon",
+    "image": "https://www.spriters-resource.com/resources/sheet_icons/38/40909.png",
+    "DEF": 73,
+    "ATK": 50,
+    "HP": 62
+  },
+  {
+    "id": 13,
+    "name": "Patamon",
+    "image": "https://www.spriters-resource.com/resources/sheet_icons/38/40901.png",
+    "DEF": 31,
+    "ATK": 81,
+    "HP": 37
+  },
+  {
+    "id": 14,
+    "name": "Kumamon",
+    "image": "https://www.spriters-resource.com/resources/sheet_icons/38/40913.png",
+    "DEF": 57,
+    "ATK": 25,
+    "HP": 83
+  },
+  {
+    "id": 15,
+    "name": "Wormmon",
+    "image": "https://www.spriters-resource.com/resources/sheet_icons/39/41863.png",
+    "DEF": 2,
+    "ATK": 69,
+    "HP": 55
+  },
+  {
+    "id": 16,
+    "name": "Kunemon",
+    "image": "https://www.spriters-resource.com/resources/sheet_icons/38/40908.png",
+    "DEF": 46,
+    "ATK": 43,
+    "HP": 89
+  }
+]
